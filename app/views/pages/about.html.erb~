@@ -1,11 +1,13 @@
+<!DOCTYPE html>
+<html>
   <head>
     <title>Sturgill, Turner, Barker and Moloney Practice App | <%= @title %> </title>
   </head>
   <body>
-    <h1>Attorneys</h1>
+    <h1>About</h1>
     <p>
 
-      This is the attorneys page for the
+      This is the about page for the
       <a href="www.sturgillturner.com"> Sturgill Turner Public Site </a>
       practice application.
     </p>

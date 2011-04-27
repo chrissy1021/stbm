@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
   <head>
     <title>Sturgill, Turner, Barker and Moloney Practice App | <%= @title %> </title>
   </head>
